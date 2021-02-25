@@ -1,6 +1,6 @@
 
 import "fmt"
 
-func main (){
-  fmt.println ("Hello World")
+func main() {
+	fmt.println("Hello Yuriy")
 }
